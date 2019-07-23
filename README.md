@@ -10,3 +10,5 @@ To RUN:
 And follow the instructions..
 
 B-)
+
+NOTE: It has to be run from scratch..... please revert the box and run..... no past installation or config files should be present on the box.... :)
